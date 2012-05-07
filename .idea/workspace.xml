@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="48267462-b3e0-4d89-92db-2f6cf3adae15" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Test.java" afterPath="$PROJECT_DIR$/src/Test.java" />
     </list>
     <ignored path="TestGit.iws" />
@@ -64,7 +63,7 @@
       <file leaf-file-name="Test.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="11" selection-start="101" selection-end="101" vertical-scroll-proportion="0.14">
+            <state line="8" column="11" selection-start="113" selection-end="113" vertical-scroll-proportion="0.16">
               <folding />
             </state>
           </provider>
@@ -398,7 +397,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="11" selection-start="101" selection-end="101" vertical-scroll-proportion="0.14">
+        <state line="8" column="11" selection-start="113" selection-end="113" vertical-scroll-proportion="0.16">
           <folding />
         </state>
       </provider>
